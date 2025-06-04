@@ -63,4 +63,4 @@ I focused on making the dashboard intuitive, business-focused, and impactful —
 
 - 🌐 [LinkedIn](www.linkedin.com/in/emwindosa-osarenmwinda-52428a14a)
 - 📁 [Portfolio](https://yourportfolio.com)
-- 📧 [Email] (osarenmwindame@gmail.com)
+- 📧 [Email](osarenmwindame@gmail.com)
