@@ -32,8 +32,7 @@ This project focuses on analyzing the sales performance of **VanArsdel**, a fict
 ---
 
 ## 📊 Dashboard Preview
-
-[Dashboard Screenshot][Screenshot 2025-05-13 125018](https://github.com/user-attachments/assets/bb0edf38-24a8-4dab-9cac-6c599e98218a)
+(https://github.com/user-attachments/assets/bb0edf38-24a8-4dab-9cac-6c599e98218a)
 
 > 🎯 The dashboard features dynamic filters for year and country. Key metrics such as revenue, market share, and year-over-year growth are highlighted with interactive visuals.
 
@@ -45,7 +44,7 @@ This project focuses on analyzing the sales performance of **VanArsdel**, a fict
 |----------------------------|--------------------------------------|
 | `VanArsdel_Sales.xlsx`     | Cleaned sales and customer dataset   |
 | `VanArsdel_Dashboard.pbix` | Power BI dashboard file              |
-| `dashboard_screenshot.png`![Screenshot 2025-05-13 125018](https://github.com/user-attachments/assets/fd523fa8-b07f-46db-aec2-7f042bebd879)
+| `dashboard_screenshot.png`! https://github.com/user-attachments/assets/fd523fa8-b07f-46db-aec2-7f042bebd879)
  | Screenshot of the final dashboard    |
 | `README.md`                | Project documentation                |
 
@@ -65,4 +64,4 @@ I focused on making the dashboard intuitive, business-focused, and impactful —
 
 - 🌐 [LinkedIn](www.linkedin.com/in/emwindosa-osarenmwinda-52428a14a)
 - 📁 [Portfolio](https://yourportfolio.com)
-- 📧 osarenmwindame@gmail.com
+- 📧 [Email] (osarenmwindame@gmail.com)
