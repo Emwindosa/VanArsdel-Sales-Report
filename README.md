@@ -44,7 +44,7 @@ This project focuses on analyzing the sales performance of **VanArsdel**, a fict
 |----------------------------|--------------------------------------|
 | `VanArsdel_Sales.xlsx`     | Cleaned sales and customer dataset   |
 | `VanArsdel_Dashboard.pbix` | Power BI dashboard file              |
-| `dashboard_screenshot.png`!| https://github.com/user-attachments/assets/fd523fa8-b07f-46db-aec2-7f042bebd879)|
+| `dashboard_screenshot.png`!| [VanArsel_Sales_Report](https://github.com/user-attachments/assets/fd523fa8-b07f-46db-aec2-7f042bebd879)|
 | `README.md`                | Project documentation                |
 
 ---
