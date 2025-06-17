@@ -32,7 +32,7 @@ This project focuses on analyzing the sales performance of **VanArsdel**, a fict
 ---
 
 ## 📊 Dashboard Preview
-(https://github.com/user-attachments/assets/bb0edf38-24a8-4dab-9cac-6c599e98218a)
+[VanArsdel_Sales_Report](https://github.com/user-attachments/assets/bb0edf38-24a8-4dab-9cac-6c599e98218a)
 
 > 🎯 The dashboard features dynamic filters for year and country. Key metrics such as revenue, market share, and year-over-year growth are highlighted with interactive visuals.
 
